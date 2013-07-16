@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-from django.core.management import execute_manager
+from django.core.management import execute_from_command_line
 
 import os
 import sys
@@ -13,4 +13,4 @@ except ImportError:
     sys.exit(1)
 
 if __name__ == "__main__":
-    execute_manager(settings)
+    execute_from_command_line()
