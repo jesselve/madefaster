@@ -6,7 +6,7 @@
     </list>
     <ignored path="Website.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="fd8fc0cd-a5dc-4ea7-b1b1-5124417df665" time="1374032289282" ignored="false" />
+    <file path="/Dummy.txt" changelist="fd8fc0cd-a5dc-4ea7-b1b1-5124417df665" time="1374032370013" ignored="false" />
     <file path="C:/Python27/Lib/site-packages/django/conf/urls/__init__.py" changelist="fd8fc0cd-a5dc-4ea7-b1b1-5124417df665" time="1373996339112" ignored="false" />
     <file path="/requirements.txt" changelist="fd8fc0cd-a5dc-4ea7-b1b1-5124417df665" time="1373998581383" ignored="false" />
     <file path="/manage.py" changelist="fd8fc0cd-a5dc-4ea7-b1b1-5124417df665" time="1374002212476" ignored="false" />
@@ -293,7 +293,11 @@
       <created>1374032294740</created>
       <updated>1374032294740</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="stopped ignoring a bunch of external libraries">
+      <created>1374032376882</created>
+      <updated>1374032376882</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -317,7 +321,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="0" width="1260" height="984" extended-state="0" />
+    <frame x="10" y="0" width="1260" height="984" extended-state="1" />
     <editor active="false" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
